@@ -1,0 +1,15 @@
+export const globalColors = {
+  extraDarkGrey: "#72767C",
+  darkGrey: "#7C808E",
+  grey: "#C4C4C4",
+  lightGrey: "#F0F0F0",
+  primaryDark: "#1B48BC",
+  black: "#000000",
+  white: "#FFFFFF",
+  blue: "#007BFF",
+  lightBlue: "#E4F0FD",
+  green: "#02C39A",
+  warning: "#FF4C49",
+  hover: "#BECCDA",
+  border: "#DCDDE0",
+};
